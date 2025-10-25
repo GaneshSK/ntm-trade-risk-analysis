@@ -18,7 +18,6 @@
 - [Usage](#usage)
 - [Key Metrics](#key-metrics)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 - [Citation](#citation)
 - [Contact](#contact)
@@ -325,28 +324,6 @@ print(ntm_trends)
 - **31 non-technical measures** (export controls, licensing)
 - Correlation: Higher NTMs → Higher compliance costs
 
----
-
-## 🛠️ Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/NewFeature`)
-3. Commit changes (`git commit -m 'Add NewFeature'`)
-4. Push to branch (`git push origin feature/NewFeature`)
-5. Open a Pull Request
-
-### **Areas for Contribution:**
-
-- Additional data sources (WTO I-TIP, USITC)
-- Visualization dashboards (Streamlit, Plotly)
-- Gen AI integration (LangChain agents)
-- Statistical models (econometric analysis)
-- Case study validations
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -372,9 +349,9 @@ If you use this dataset or methodology in your research, please cite:
 ## 👤 Contact
 
 **Ganesh S K**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@GaneshSK](https://github.com/GaneshSK)
+- Email: s.k.ganesh91@gmail.com.com
+- LinkedIn: [Ganesh S K](https://linkedin.com/in/ganesh-s-k)
 
 ---
 
