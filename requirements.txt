@@ -1,0 +1,33 @@
+# Trade Risk Analysis - Python Dependencies
+# Python 3.8+
+
+# Core data processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Excel file handling
+openpyxl>=3.0.0
+
+# Date/time handling (included with pandas)
+python-dateutil>=2.8.0
+
+# Visualization (optional, for future use)
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Statistical analysis (optional)
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# For Jupyter notebooks (optional)
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# For Gen AI integration (future phases)
+# langchain>=0.1.0
+# openai>=1.0.0
+# anthropic>=0.8.0
+
+# For dashboards (future phases)
+# streamlit>=1.28.0
+# plotly>=5.14.0
